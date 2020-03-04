@@ -1,3 +1,4 @@
+/*
 function taxBracket(Income) {
   return lblOutput.value
   }
@@ -17,4 +18,7 @@ btnSubmit.onclick=function(){
 btnAgain.onclick=function(){
   inptIncome.value == ""
 }
+
+*/
+
 
